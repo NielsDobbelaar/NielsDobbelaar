@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niels Dobbelaar</h1>
 <h3 align="center">A computer science student from the netherlands with a love for the front-end</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **NextJS and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NielsDobbelaar?tab=repositories](https://github.com/NielsDobbelaar?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/NielsDobbelaar?tab=repositories](https://github.com/NielsDobbelaar?tab=repositories) or on my [website](https://nielsdobbelaar.nl)
 
 - 💬 Ask me about **React, React Native, Expo and Tailwind**
 
